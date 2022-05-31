@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gobara</h1>
-<h3 align="center">A student at Faculty of Computer & Informations - Menoufia University,Mobile(Android) Developer,Front end Devleoper</h3>
+<h3 align="center">A student at Faculty of Computer & Informations - Menoufia University,Mobile(Android) Developer,Java Devleoper</h3>
 <img align= "right" alt="annimated coding Picture" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudali0&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudali0" /> </p>
